@@ -1,4 +1,4 @@
-const temperature = -41;
+const temperature = 0;
 
 if (temperature <-40 || temperature > 40) {
   console.log ("maybe going outside isnt such a good idea...");
@@ -10,6 +10,6 @@ if (temperature <-40 || temperature > 40) {
 } else {
   console.log("short sleeve are fine.");
 
-} 
- 
+}  
+
 console.log("Now you are ready to go outside!");
